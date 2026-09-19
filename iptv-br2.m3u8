@@ -1,0 +1,169 @@
+#EXTM3U
+#PLAYLIST:iptv-br2
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-id="NickReplay.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WZzqpSa_QDrm7mEM5zlu7K3uUftF1sf5rZA0paYcEA&s=10" group-title="REPLAYS",Nick Replay
+http://15.235.9.200:14050/
+
+#EXTINF:-1 tvg-id="DisneyXD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx19gJU0sXxNTxNGlg95tUE7a06uPBvbE5V_qpgF0KfQ&s=10" group-title="REPLAYS",Disney XD Replay
+http://15.235.9.200:14871/
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlg2QYTtKQVsppWS40K1IQdUlNlygqK_op3nJ_BlvJ2Q&s=10" group-title="REPLAYS",Cartoon Network Replay [US]
+http://15.235.9.200:14041/
+
+#EXTINF:-1 tvg-id="Boomerang.us" group-title="REPLAYS",Boomerang Replay [LA]
+http://15.235.9.200:14913/
+
+#EXTINF:-1 tvg-id="DisneyChannel.br" group-title="REPLAYS",Disney Channel Replay
+http://15.235.9.200:14039/
+
+#EXTINF:-1 tvg-id="Jetix.us" group-title="REPLAYS",Jetix Replay
+http://15.235.9.200:14005
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="REPLAYS",Cartoon Network Replay [LA]
+http://15.235.9.200:14023/
+
+#EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1AQ-Gz9iJW0cpBxqUFQT4YRS1Kh-bhYhiYbyP6No0w&s=10" group-title="REPLAYS",Nick Jr Replay
+http://15.235.9.200:14874/
+
+#EXTINF:-1 tvg-id="Boing.us" group-title="REPLAYS",Boing Replay
+http://15.235.9.200:14032/
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="REPLAYS",Cartoon Network Replay
+http://15.235.9.200:14951/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ipL1vgOb7drqWaTQ8M91GVRaXUx0J76YY1ENlaE-AGrnH_Qy0Ny6M8I1ufHaxsLJHzrJ7sINTMKoT6auDbp7x1mRYVzGdKZAtcb87-EuoQ&s=10" group-title="REPLAYS",Os Padrinhos Magicos
+http://15.235.9.200:14982/
+
+#EXTINF:-1 tvg-id="Boomerang.us" group-title="REPLAYS",Boomerang Replay [CEE]
+http://15.235.9.200:14987/
+
+#EXTINF:-1 tvg-id="Jetix.br" group-title="REPLAYS",Jetix Replay [feed cee]
+http://15.235.9.200:14043/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy28z8h7ezymt0NU86YuzcdFM-9BeHuAhPk3jEMw_DY2CslM20IR7jrSMuf-KaHtVGWcfEdlqwMaXnsMS4MM1bbOqimerUkDpVgE5OJcla&s=10" group-title="REPLAYS",Simpsons
+http://15.235.9.200:14984/
+
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="REPLAYS",Discovery Kids
+http://15.235.9.200:14993/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqjPRUfjX7E1eQtGTH9PNarvRxVrw7eRypzIqyFgiJg&s=10" group-title="Canais",A&E FHD
+http://up.kiwi/351921603109/34939156/14
+
+#EXTINF:-1 group-title="Canais",Adult Swin HD 2
+http://up.kiwi/351921603109/34939156/296629
+
+#EXTINF:-1 group-title="Canais",AGRO+ HD
+http://up.kiwi/351921603109/34939156/296631
+
+#EXTINF:-1 group-title="Canais",AMC HD
+http://up.kiwi/351921603109/34939156/296432
+
+#EXTINF:-1 group-title="Canais",ANIMAL PLANET FHD H265
+http://up.kiwi/351921603109/34939156/28
+
+#EXTINF:-1 group-title="Canais",ARTE 1 HD
+http://up.kiwi/351921603109/34939156/86
+
+#EXTINF:-1 group-title="Canais",AXN HD
+http://up.kiwi/351921603109/34939156/304028
+
+#EXTINF:-1 group-title="Canais",BABY TV FHD
+http://up.kiwi/351921603109/34939156/100
+
+#EXTINF:-1 group-title="Canais",Band FHD
+http://up.kiwi/351921603109/34939156/296913
+
+#EXTINF:-1 group-title="Canais",Band Nacional
+http://up.kiwi/351921603109/34939156/114
+
+#EXTINF:-1 group-title="Canais",BBC World News HD
+http://up.kiwi/351921603109/34939156/296338
+
+#EXTINF:-1 group-title="Canais",BIS HD
+http://up.kiwi/351921603109/34939156/170
+
+#EXTINF:-1 group-title="Canais",Bloomberg TV HD
+http://up.kiwi/351921603109/34939156/296339
+
+#EXTINF:-1 group-title="Canais",BRTV MAX
+http://up.kiwi/351921603109/34939156/298431
+
+#EXTINF:-1 group-title="Canais",Canal Brasil HD
+http://up.kiwi/351921603109/34939156/186
+
+#EXTINF:-1 group-title="Canais",CANÇÃO NOVA FHD
+http://up.kiwi/351921603109/34939156/296222
+
+#EXTINF:-1 group-title="Canais",Cartoon Network FHD
+http://up.kiwi/351921603109/34939156/201
+
+#EXTINF:-1 group-title="Canais",Cartoonito FHD
+http://up.kiwi/351921603109/34939156/207
+
+#EXTINF:-1 group-title="Canais",CAZE TV
+http://up.kiwi/351921603109/34939156/212
+
+#EXTINF:-1 group-title="Canais",Cine Canal FHD
+http://up.kiwi/351921603109/34939156/218
+
+#EXTINF:-1 group-title="Canais",CineMax FHD
+http://up.kiwi/351921603109/34939156/260
+
+#EXTINF:-1 group-title="Canais",CineMax [Legendas]
+http://up.kiwi/351921603109/34939156/296437
+
+#EXTINF:-1 group-title="Canais",CNN Brasil FHD
+http://up.kiwi/351921603109/34939156/264
+
+#EXTINF:-1 group-title="Canais",CNT SD
+http://up.kiwi/351921603109/34939156/276
+
+#EXTINF:-1 group-title="Canais",Combate FHD
+http://up.kiwi/351921603109/34939156/278
+
+#EXTINF:-1 group-title="Canais",Comedy Central FHD
+http://up.kiwi/351921603109/34939156/284
+
+#EXTINF:-1,Curta! FHD
+http://up.kiwi/351921603109/34939156/290
+
+#EXTINF:-1 group-title="Canais",Discovery Channel FHD
+http://up.kiwi/351921603109/34939156/340
+
+#EXTINF:-1 group-title="Canais",Discovery H&H FHD
+http://up.kiwi/351921603109/34939156/346
+
+#EXTINF:-1 group-title="Canais",Discovery ID FHD
+http://up.kiwi/351921603109/34939156/351
+
+#EXTINF:-1 group-title="Canais",Discovery Kids FHD
+http://up.kiwi/351921603109/34939156/357
+
+#EXTINF:-1 group-title="Canais",Discovery Science FHD
+http://up.kiwi/351921603109/34939156/362
+
+#EXTINF:-1 group-title="Canais",Discovery Theater
+http://up.kiwi/351921603109/34939156/368
+
+#EXTINF:-1 group-title="Canais",Discovery Turbo FHD
+http://up.kiwi/351921603109/34939156/374
+
+#EXTINF:-1 group-title="Canais",Discovery World FHD
+http://up.kiwi/351921603109/34939156/380
+
+#EXTINF:-1 group-title="Canais",Dog TV HD
+http://up.kiwi/351921603109/34939156/297461
+
+#EXTINF:-1 group-title="Canais",E! HD
+http://up.kiwi/351921603109/34939156/296155
+
+#EXTINF:-1 group-title="Canais",Gloob FHD
+http://up.kiwi/351921603109/34939156/543
+
+#EXTINF:-1 group-title="Canais",Gloobinho FHD
+http://up.kiwi/351921603109/34939156/548
+
+#EXTINF:-1 group-title="Canais",GNT FHD
+http://up.kiwi/351921603109/34939156/552
+
